@@ -75,13 +75,13 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
 ### 🤝 Contributing
     1. Fork the repository.
     2. Create your feature branch:
-        ```bash
+        
         git checkout -b feature/AmazingFeature
     3. Commit your changes:
-       ```bash
+       
        git commit -m 'Add some AmazingFeature
     4. Push to the branch:
-       ```bash
+       
        git push origin feature/AmazingFeature
 
 ### 📄 License
