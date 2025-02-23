@@ -47,9 +47,11 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/yourusername/european-airbnb-analysis.git
+   
 2. **Create database and tables**:
     ```bash  
     psql -U your_username -d your_database -f sql/schema/create_tables.sql 
+
 3.  **Run the analysis queries**:
     ```bash
     psql -U your_username -d your_database -f sql/queries/01_basic_statistics.sql
