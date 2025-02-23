@@ -46,46 +46,46 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
 ### Setup Instructions  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/european-airbnb-analysis.git```  
+   git clone https://github.com/yourusername/european-airbnb-analysis.git
 2. **Create database and tables**:
     ```bash  
-    psql -U your_username -d your_database -f sql/schema/create_tables.sql```  
+    psql -U your_username -d your_database -f sql/schema/create_tables.sql 
 3.  **Run the analysis queries**:
     ```bash
-    psql -U your_username -d your_database -f sql/queries/01_basic_statistics.sql```
+    psql -U your_username -d your_database -f sql/queries/01_basic_statistics.sql
 
 ### 📊 Dataset Structure
     Key Columns
-    ``City``: Location of the property
+    City: Location of the property
 
-    ``Price``: Booking price
+    Price: Booking price
 
-    ``Day``: Weekday/Weekend
+    Day: Weekday/Weekend
 
-    ``Room_Type``: Type of accommodation
+    Room_Type: Type of accommodation
 
-    ``Guest_Satisfaction``: Rating score
+    Guest_Satisfaction: Rating score
 
-    ``Cleanliness_Rating``: Cleanliness score
+    Cleanliness_Rating: Cleanliness score
 
-    ``Metro_Distance_KM``: Distance to metro
+    Metro_Distance_KM: Distance to metro
 
-    ``City_Center_KM``: Distance to city center
+    City_Center_KM: Distance to city center
 
 ### 🤝 Contributing
     1. Fork the repository.
     2. Create your feature branch:
         ```bash
-        git checkout -b feature/AmazingFeature```
+        git checkout -b feature/AmazingFeature
     3. Commit your changes:
        ```bash
-       git commit -m 'Add some AmazingFeature'```
+       git commit -m 'Add some AmazingFeature
     4. Push to the branch:
        ```bash
-       git push origin feature/AmazingFeature```
+       git push origin feature/AmazingFeature
 
 ### 📄 License
     This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 🔍 Data Analysis Requirements
-    Detailed analysis requirements can be found in ```analysis_requirements.md```.
+    Detailed analysis requirements can be found in analysis_requirements.md.
