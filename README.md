@@ -39,7 +39,7 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
 
 ## 🚀 Getting Started  
 ### Prerequisites  
-- PostgreSQL 12+ installed  
+- MySQL installed  
 - Basic SQL knowledge  
 - Access to the Airbnb dataset  
 
