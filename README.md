@@ -47,7 +47,7 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/yourusername/european-airbnb-analysis.git
-   
+
 2. **Create database and tables**:
     ```bash  
     psql -U your_username -d your_database -f sql/schema/create_tables.sql 
@@ -79,9 +79,11 @@ Comprehensive analysis of European Airbnb bookings using SQL, examining pricing 
     2. Create your feature branch:
         
         git checkout -b feature/AmazingFeature
+
     3. Commit your changes:
        
        git commit -m 'Add some AmazingFeature
+       
     4. Push to the branch:
        
        git push origin feature/AmazingFeature
